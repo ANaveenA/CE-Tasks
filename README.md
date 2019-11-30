@@ -13,7 +13,7 @@ Task1-Balance Update:
    
      iv).Implemented Junit tests for BalanceLoadTest class.
    
-Task1-Payment Update:
+Task2-Payment Update:
 
      i) Payement Amount record read from the file,it displays one line per update and processed row every second.
    
